@@ -50,6 +50,10 @@
     text-decoration: none;
 }
 
+.flex-vertical > div:hover {
+    background-color: gray;
+}
+
 html {
     font-family: Arial, Helvetica, sans-serif;
 }
