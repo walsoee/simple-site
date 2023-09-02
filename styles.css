@@ -61,7 +61,10 @@
     text-decoration: none;
 }
 
-/* General CSS */
+.flex-vertical > div:hover {
+    background-color: gray;
+}
+
 html {
     font-family: Arial, Helvetica, sans-serif;
 }
