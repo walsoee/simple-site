@@ -23,6 +23,15 @@
     text-decoration: none;
 }
 
+.grid-container {
+    display: grid;
+    grid-template-areas: '. body .';
+}
+
+.grid-body {
+    grid-area: body
+}
+
 /* Info CSS */
 .flex-vertical {
     display: flex;
