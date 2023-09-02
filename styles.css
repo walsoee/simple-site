@@ -1,3 +1,4 @@
+/* Index CSS */
 .flex-container {
     display: flex;
     justify-content: space-around;
@@ -22,6 +23,7 @@
     text-decoration: none;
 }
 
+/* Info CSS */
 .flex-vertical {
     display: flex;
     flex-direction: column;
